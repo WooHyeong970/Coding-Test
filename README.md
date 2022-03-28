@@ -9,6 +9,6 @@
 - dldngud97
 ### T-story 블로그
 - https://hellomygameworld.tistory.com/
-- you can see my BOJ algorithm code here
+- you can see my more BOJ algorithm code here
 ### Language
 - C++ / Python
