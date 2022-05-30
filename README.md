@@ -8,8 +8,15 @@
 ##### 2022.05.26 solved 4
 * * *
 
+⌈Programmers 알고리즘 연스⌋
+=============
+### 목표는 Programmers Level 1 정복!!
+* * *
+
 ### BOJ ID
 - dldngud97
+### Programmers 
+- dngud9701
 ### T-story 블로그
 - https://hellomygameworld.tistory.com/
 - you can see my more BOJ algorithm code here
