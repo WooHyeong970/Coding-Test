@@ -8,7 +8,7 @@
 ##### 2022.05.26 solved 4
 * * *
 
-⌈Programmers 알고리즘 연스⌋
+⌈Programmers 알고리즘 연습⌋
 =============
 ### 목표는 Programmers Level 1 정복!!
 * * *
